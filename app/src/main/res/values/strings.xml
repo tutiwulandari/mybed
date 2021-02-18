@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MyBed</string>
+    <string name="content_text">Dilengkapi bantal dan guling yang berbahan dasar chooped memory foam dg cover yang dapat dibuka dan dicuci kualitas per yang baik dan mudah kembali ke posisi semula menggunakan latex yang anti bakteri, anti listrik statis dan mampu menghadirkan tidur yang lebih nyaman Kasur, bantal dan guling divakum dan dikemas dalam kotak.\n
+        Dimensi produk    : 200 x 200 x 23 cm\n
+        Dimensi packaging : 213 x 36 x 36 cm\n
+        Material          : latex, pocket spring\n
+        Warranty Unit 10 Years</string>
+    <string name="content_specs_display">: Baru</string>
+    <string name="content_specs_size">: 38.5 Kilogram</string>
+    <string name="content_specs_preorder">: 5 hari</string>
+    <string name="stock">Stock Terbatas</string>
+    <string name="detail">Detail</string>
+    <string name="display">Kondisi</string>
+    <string name="size">Berat</string>
+    <string name="preorder">Waktu Pre Order</string>
+    <string name="seller">Dijual oleh</string>
+    <string name="my_name">MyShop</string>
+    <string name="buy">Beli</string>
+    <string name="dummy_value">Rp 2.149.500 \n
+    <strike>Rp. 3.000.000</strike> </string>
+    <string name="dummy_photos">3 photos</string>
+</resources>
